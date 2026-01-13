@@ -1,0 +1,6 @@
+google-genai
+sentence-transformers
+python-dotenv
+ipython
+pymupdf4llm
+tqdm

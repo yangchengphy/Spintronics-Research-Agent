@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+data/raw_pdfs/
+data/processed_papers/
+lab_notebook.md
+research_plan.md
